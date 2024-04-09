@@ -6,6 +6,8 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
+![Link and image.] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fnerdshizzle.com%2Fproduct%2Fcomputer-wizard%2F&psig=AOvVaw2soLL2dbM527prsL_AZJZ9&ust=1712745362407000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNi0muz3tIUDFQAAAAAdAAAAABAE)
+ This is just a test to go over markdown
 
 # Communicate using Markdown
 
@@ -59,6 +61,22 @@ In this course, you will:
    - Scroll down and click the **Create repository** button at the bottom of the form.
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
+# Task Completion
+- [x] Headings
+- [x] image
+- [x] task list
+- [x] add a code snippet
+- [] merge
+
+# Random code sample
+```javascript
+// This is a JS example
+const test = "Hello";
+console.log(test);
+```
+  
+# Closing
+Thanks for joining
 <footer>
 
 <!--
