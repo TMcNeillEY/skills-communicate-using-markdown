@@ -6,7 +6,8 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-![Link and image.] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fnerdshizzle.com%2Fproduct%2Fcomputer-wizard%2F&psig=AOvVaw2soLL2dbM527prsL_AZJZ9&ust=1712745362407000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNi0muz3tIUDFQAAAAAdAAAAABAE)
+![Link an image.](https://cdn.britannica.com/77/170477-050-1C747EE3/Laptop-computer.jpg)
+ 
  This is just a test to go over markdown
 
 # Communicate using Markdown
